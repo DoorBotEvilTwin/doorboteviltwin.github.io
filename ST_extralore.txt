@@ -307,7 +307,7 @@ Writing for PC Gamer US, Stephen Poole called Starship Titanic "an uninspiring a
 
 Next Generation praised the text parser and wrote that as the game progresses, "it's impossible to get anywhere" without asking the bots questions, adding that "the humor of the answers alone makes it worth asking questions".[5] Paul Presley of PC Zone gave the game a score of 91%, praising its atmosphere as "totally absorbing" and commended it for its humor and presentation as well.[79] Alex Cruickshank of PC Magazine called it a "pleasantly entertaining adventure" and praised the graphics, gameplay and puzzles.[45] Reviewing the Mac version, Mike Dixon of MacAddict gave it a positive review, praising the graphics, the recorded dialogue and the humor, whilst giving minor criticism to the interface.[6] Entertainment Weekly's Megan Harlan gave the game an A, praising the parser and the ability to converse with the bots, as well as their responses.[37] In a Computer Shopper review, Jim Freund wrote the game "provides many hours of enjoyable game play" and suggested that it might be "a milestone in the annals of interactive fiction".[80] Writing for USA Today, Jeffrey Adam Young rated it three and a half stars out of four, calling it a "hilarious blend of Monty Pythonesque humor and zany wordplay in a sci-fi setting" and praising it for its characters and script.[81] New York Daily News reviewer Kenneth Li gave the game three and a half stars out of four, calling it "breathtaking" and praising the storyline; however, he offered minor criticism towards repetitive replies in the text parser.[82] Joe Brussel of Adventure Classic Gaming rated the game four stars out of five, writing that the puzzles are "entertaining but not too hard" and praised the voice acting and graphics, although he wrote the story is "a little shortsighted".[83]
 
-The game received two nominations for the BAFTA Interactive Awards in the categories of Comedy and Interactive Treatment in October 1998,[84] and was nominated for PC Adventure Game of the Year at the 2nd Annual Interactive Achievement Awards.[85] Likewise, the editors of The Electric Playground nominated Starship Titanic for their 1998 "Best Adventure Game" award, which ultimately went to Grim Fandango.[86] However, it was given a Codie award in 1999 for "Best New Adventure/Role Playing Game" by the Software and Information Industry Association.[87] 
+The game received two nominations for the BAFTA Interactive Awards in the categories of Comedy and Interactive Treatment in October 1998,[84] and was nominated for PC Adventure Game of the Year at the 2nd Annual Interactive Achievement Awards.[85] Likewise, the editors of The Electric Playground nominated Starship Titanic for their 1998 "Best Adventure Game" award, which ultimately went to Grim Fandango.[86] However, it was given a Codie award in 1999 for "Best New Adventure/Role Playing Game" by the Software and Information Industry Association.[87]
 
 **Hidden Rooms, Robots & Cut Content**
 Unused location voice line for the "Grand Axial Canal, Second Class". You can never enter this area in the game, and there are no videos for it. 
@@ -3919,6 +3919,828 @@ The original idea for the story that unfolds as you play the game came about as 
 It features a groundbreaking gaming system, allowing you to have natural conversations with the robots in the game, and some fiendishly difficult puzzles.
 
 There's a parrot in it too. 
+
+**Life, the interview and everything: A chat with Douglas Adams**
+Interview Today – March 11th – would have been Douglas Adams' 63rd birthday. To mark this occasion, we are reprinting a lost interview with Douglas Adams. It was focused not on Hitchhiker's, but on Starship Titanic, a text adventure and book. The game had just been released to manufacture and Adams had pulled an all-nighter to get it out, but he was still prepared to spend an hour chatting to promote the title.
+
+This interview first appeared in the house magazine for Demon Internet, Demon Dispatches, in April 1998.
+
+Twenty years ago – on 8 March 1978 to be precise – the earth was destroyed. This is an odd way for a story to start, but fans of Douglas Adams have grown to expect the unexpected.
+
+The adventures of Arthur Dent and Ford Prefect began on Radio 4. Since then, The Hitchhiker’s Guide to the Galaxy has spawned a trilogy of five books, records, a stage play and a TV series, and there's now a film in the making.
+
+Over the years, Adams has learnt to live with Hitchhiker's. "For the first few years I really wanted it all to stop. Now it's fine and we're doing a movie with Disney. It's manageable, and you'd be foolish to resent the success." He says Pete Townsend told him that Tommy presented similar problems.
+
+That success is what has allowed Adams to build The Digital Village (www.tdv.com), which he describes as a multiple media company, since multimedia is only one of the things the company does.
+
+Within The Digital Village the online stuff is the glue that holds everything together. They clearly work hard. We interviewed Adams two days before the first project was due to ship, and there were some very tired people around. Programmers, who'd been working for days without a break, had retired to offices behind notices which warned that the occupants were sleeping.
+
+Their exhaustion is down to Starship Titanic, a text-based adventure game in which your task is to board a spaceship that crashes into your house and get yourself upgraded to first class.
+
+Adams describes Starship Titanic as Myst with things happening. And there's certainly plenty happening: the game comes on three CDs. When you play, you meet and converse with a number of characters. You type and they reply. At one stage in the game's development, it was envisaged that you'd be able to talk and the software would use speech recognition. The technology isn't quite there yet (although it won't be long), but Adams feels that as we've all got so used to typing to each other over the internet, it feels like a natural way to communicate.
+
+Spooky talk
+
+There aren't any real people on the starship – just androids and a demented parrot. However, you can end up in some long conversations with the crew. There are 10,000 responses, adding up to a total of 16 hours.
+
+It's great to hear the careful terms in which Adams couches the way this works. He's keen to distinguish between Starship and artificial intelligence. Starship Titanic doesn't employ Al. The name The Digital Village has adopted for the real-enough sounding phrases that emanate from the characters is Spooky Talk. The game is so deep that in many ways it's more like a book
+
+Adams' two favourite characters are the Deskbot and Liftbot – bot being, of course, short for robot. The Liftbot is based on the old-fashioned lift operators who worked at the BBC: they have one arm and tell lies about the war. Liftbot is principally a product of Michael Bywater; who along with Neil Richards collaborated with Adams on the game.
+
+The Deskbot is a fundamental character based on a check-in person for British Airways. To cut a long story short, Adams was sent on an assignment by a national newspaper. Being well over 6ft, he only agreed on the basis that he wouldn't be sent economy. When economy tickets arrived, he questioned this with the newspaper; but was told it was OK – he'd be upgraded at check-in. At the airport, of course, things were a little different. Adams explained about the arrangement and was asked: "And who is going to pay for this?" After an increasingly haughty conversation, Adams paid for the upgrade himself. Thus was born the mission you undertake on the Starship Titanic.
+
+Starship Titanic is a great place to wrangle with bureaucrats. The artwork is stunning, using pre-rendered images with a 1930s feel. Adams says he looked at the original Titanic, but it was mostly Edwardian, which isn't, he feels, very easy on the modern eye. So the interior is modelled on the Queen Mary.
+
+The great graphics limit the game's potential for playing over the web. At an early stage in the design, it was envisaged that there would be two levels – the smart high-resolution version and a kind of virtual reality level that had simple graphics. Some of the problems would have been VR- based. In this form it would've used a low enough bandwidth to be played across the web. However, other aspects took priority and the only artefact that remains is the blocked entrance to this world: an SCSI cable, which you'll find in one of the rooms.
+
+End of the liner
+
+With only hours left at the end of the two-year project, it seemed a bit churlish to ask what was happening next. But that's the kind of thing interviewers do. The next big project is the Hitchhiker movie. This is at least the third attempt to make a film of the story. Adams says that like all the other iterations, it will be based on what has gone before the radio series and books.
+
+"You'd be right to conclude that the TV series wasn't my favourite," he says. There will also be some new material. He believes that this time it will happen: "We have a studio and a director." He acknowledges that the success of the film Men in Black may well have helped, but wonders if the humour in that owes any¬thing to Hitchhiker.
+
+After the film, there might be a game of the movie – a console action game, nothing like Titanic. And, of course, there's a Mac version of Starship Titanic. Adams is quite emotional on the subject: "If we did the Mac first, there wouldn't be a game. While I will do everything I can to support and evangelise the Mac, that doesn't include bankrupting the company."
+
+Funding for the Mac project will have to come from the success of the Windows version. Adams speculates that as most new Macs are now shipping with DVD drives, Starship Titanic for the Mac might only come out on DVD. Meanwhile, Mac users will have to content themselves with the book of the game, written by Terry Jones. However; even if you're a Windows user you should visit the bookshop: it won't help you with the game, but if Adams' hope of a film of the game gets realised, you'll be able to sit in the cinema and moan that it's not as good as the original.
+
+You've plenty of time to read it, though. Even if it's a high-speed process compared to its predecessor, which has taken over 20 years from original broadcast to celluloid. So it wasn't only Arthur Dent who began a trip into the unknown when the world was destroyed. ®
+Bootnote
+
+The film which Adams thought was about to be made went through hiatus after hiatus before finally appearing in 2005, seven years after this interview and four years after Adams died of a heart attack.
+
+One story insight that Adams – who was notorious for missing deadlines – gave during the interview, which has never made it into print before, came when I commented that Hitchhikers was famously written on a typewriter using thin carbon paper, with scripts being finished during recording. Adams was also a pioneer of home computing, and as he says here, a fan of the Macintosh. I asked if there was any difference between writing on a typewriter and a computer, and he said that when using a typewriter you could only stare out of the window, while with a computer you had a whole world of distractions.
+
+https://www.theregister.com/2015/03/11/lost_douglas_adams_interview/
+
+**Edge UK #57**
+douglas adams
+After writing a trilogy in
+four parts and an holistic
+detective story, what is
+there left to do but design
+a videogame? Edge talks
+to Douglas Adams about
+Starship Titanic and
+the future of adventure
+gaming technology...
+
+Douglas Adams shot to fame
+in the 1980s on the back of
+his 'Hitch-hiker's Guide to
+the Galaxy' series of books. In these
+tomes Arthur Dent, a thoroughly
+ordinary Brit, found himself
+hitch-hiking around the galaxy
+armed with nothing more substantial
+than a beach towel. Eventually, he
+saves the Earth from obliteration to
+make way for an intergalactic ring
+road, and finds the meaning of life
+along the way. While the books were
+turned into a TV series (a film is also
+due later this year), Adams kept
+busy by reinventing himself as a
+technology guru, whose adoration of
+his Macintosh is legendary.
+Although he's the undisputed
+heavyweight champion of the
+humorous paradox, Adams took the
+
+logical step and set up a
+development house called The
+Digital Village in London's Covent
+Garden. Here he set to work on
+developing a game, Starship
+Titanic, to be published by Zablac
+Entertainment. It's a hi-tech
+point-and-click adventure for the
+PC (and, soon, the Mac) with several
+twists - including the ability to
+converse with its characters using
+plain English. Starship Titanic is set
+to reach the shops imminently.
+Edge: What prompted you to move
+from writing books into making
+computer games?
+Douglas Adams: various things.
+Back in the 1980s, I worked with
+lnfocom to make a game based on
+the 'Hitch-hiker's Guide' series, and
+enjoyed this. But it seemed like I
+was doing it the wrong way round
+- doing all the hard work of the
+writing and then handing over the
+fun part of turning it into a game
+for someone else to do.
+
+Edge: so why didn't you make this
+switch earlier?
+DA: The 'Hitch-hiker's Guide' game
+was text-only, and graphical games
+seemed crude, slow, clunky and
+ugly. I looked at the technology and
+thought 'I don't think games are very
+interesting any more,' and sat on the
+bench for a bit. But I had it in mind
+that I'd like to get back into making
+games. The very first clarion call -
+tempting me off the bench - was
+when Myst came out. It did certain
+things very well, such as creating a
+new graphics standard, and was
+very imaginative and atmospheric.
+I liked the way it was developed in
+Hypercard; it was brilliant how it
+was able to parlay the slowness of
+Hypercard with a sense of a longer
+mystery. But then nothing much
+happened in the game. I thought:
+here's a new benchmark for how
+good graphics could be. Let's do
+something with it; populate its
+environment. But then I thought
+back to the experience with
+lnfocom, which was right at the
+other end of the scale, and ended
+up thinking that the baby had been
+thrown out with the bath water.
+
+Edge: What sort of gameplay would
+you have liked to have seen?
+DA: I wanted to see if I could push
+the idea of conversation forward.
+Companies were making games in
+which you could go up to characters
+and select pull-down conversation
+menus. But this was very primitive.
+so I thought: let's come up with a
+system in which you could say
+whatever you liked to a game's
+characters and they would answer.
+There are three stages involved
+in conversations: the input, output
+and what comes in between. In a
+couple of years hence, I might be
+tempted to do on-line speech
+recognition. But now, with the
+advent of the Internet and so on,
+we're a post-post-literate society
+and people are typing again. For the
+output, I favoured text-to-speech,
+which gives you the maximum
+ability to construct replies on-the-fly.
+But when we tried this, all Starship
+Titanic's characters sounded like
+semi-concussed Scandinavians, so
+it wasn't such a good idea. For that
+reason we opted for pre-recorded
+speech output from the characters
+in Starship Titanic.
+
+Edge: What did that entail?
+DA: It means that you have to try to
+foresee everything. In the end, my
+writing partners, Michael Bywater
+['Daily Telegraph' and 'Independent
+on Sunday' columnist] and Neil
+Richards ended up writing reams.
+There's over 16 hours of dialogue
+on the game discs. Every few weeks,
+we'd go down to the recording
+studio, so it got richer and deeper.
+we were genuinely surprised when
+we started getting answers
+appropriate to what we'd typed in.
+Edge: Is there artificial intelligence
+at the heart of this system?
+DA: With language, Al is an
+intractably deep problem. on the
+other hand, you can make a pretty
+good stab at a certain level of Al.
+The middle of the system - between
+the input and output - is where the
+system's smarts are. we haven't
+used conventional Al, but all sorts
+of methods. I think the route to
+artificial intelligence lies through the
+terrain of artificial life -you may as
+well take the same route as the
+natural world. our engine, which
+does all the work, is something one
+could continually develop, it's a
+never-ending problem.
+
+Edge: You'll continue to develop it?
+DA: I hope so, because I would love
+to do something like what you see
+in Starship Titanic on the Web. The
+interesting thing is that it develops
+iteratively. Every time we test it,
+someone says: 'It doesn't do this
+very well,' and there's no end to
+what you can do. The Web can deal
+with the third stage of conversations
+better, because pre-recorded
+speech has limitations. But you
+won't see any more development
+of text-to-speech technology in the
+foreseeable future. I had a
+conversation about a year ago with
+Dave Nagel, who's now the head
+of AT&T's west Coast Labs, and he
+said his problem was that he was
+developing text-to-speech
+technology, but nobody could find
+an application for it. soon, these
+sorts of technologies will begin
+migrating to the Web. Speech
+recognition, which is essentially
+easier than handwriting recognition,
+is not far off. All these things are
+difficult, deep problems, but if you
+can solve 60 per cent of them and
+then later 61 per cent, they'll
+always, at least, be getting better.
+At some date, we'll be able to talk
+to characters onscreen and they will
+respond. But by then, all the work
+will be done on servers.
+
+Edge: Did you have to leave
+anything out of Starship Titanic?
+DA: one whole major idea didn't
+make it into the final game. At first
+we were thinking that we'd love
+photo-realistic graphics and full
+navigability, but the two are still
+mutually incompatible when you're
+dealing with current technology.
+There's nothing that can do
+realtime rendering of those sorts
+of environments. we decided that
+the best way to get the best of both
+worlds was to have both worlds. so
+we came up with a story notion in
+which you can see the ship as you
+There are several methods of traversing
+the enormous Starship Titanic,
+including taking a trip on this gondelier
+would see it in real life - we call
+this the 'matter' side, and it's a
+pre-rendered environment. Then
+you could enter in the ship's
+information system - we called this
+the 'data' side, and it was a full
+realtime, flyable environment. It
+enabled you to track the way
+information flows through the ship;
+if you like, a VR of the ship. This
+turned out to be a bridge too far, so
+we dropped it, but there are still a
+few minor artefacts from it around,
+such as the sculpture chamber,
+which is a sculpture of a giant SCSI
+cable. Entry to the data side is now
+an unexplained phenomenon. We're
+thinking of building the data side on
+the Web and then putting hooks
+between them - we'd publish a
+software patch, and when you did
+the appropriate things on the CD,
+you'd enter the data side through
+the Web. Or we may do a totally
+new project...
+
+Edge: Will you focus on the Web
+after Starship Titanic comes out?
+DA: we want to build the equivalent
+of the 'Hitch-hiker's Guide' in an
+online environment as an
+information service - a guide to the
+Net, but covering everything else.
+It would be like having field
+researchers, or embedded guides.
+We'd create characters, like a help-
+ful taxi driver, which would use our
+developing speech technology. The
+great thing then is that we could
+have a small team of writers
+in-house who would be monitoring
+conversation traffic day-by-day and
+adding more conversation rules.
+
+Edge: Take us through the game ...
+DA: You start in Your Lovely Home,
+which you can explore a bit. For
+example, you can see a PC with
+some CD-ROMs next to it. Two of
+these cause the machine to crash if
+you put them in the drive, but if you
+put the Starship Titanic one in, the
+starship itself comes crashing into
+your living room. The first character
+you meet is the DoorBot. One of the
+complications we've created in the
+game is three dials, which indicate
+each robot character's current state
+of mind. Each one has different
+settings - its memory either works
+or not, and it's either optimistic or
+pessimistic. so there are four
+versions of every response they
+make. For example, the BarBot
+will either be telling the truth or
+lying, charming or belligerent.
+The DeskBot will either be fawning
+or very unpleasant, as well as
+gossipy or terse.
+At the bottom of the screen you
+have your personal Electronic Thing,
+or PET. This has five modes which
+govern things like conversations
+and summoning the Bots, and
+storing things you find in the rooms.
+You can store chevron codes - each
+room has a unique one. If you want
+to send anything anywhere, you
+have to use the succubus, which
+is kind of like the vacuum tubes
+they used to have in old department
+stores. The Succubus uses my voice,
+totally untreated.
+
+Edge: What is the overall aim of
+the game?
+DA: You start off in Third Class, and
+have to earn upgrades to First Class.
+At the beginning, you can see a lot
+of things which you can't get hold
+of. The first upgrade you get very
+easily, but you have to talk your
+way into the second one. There are
+several puzzles - for example, one
+involves putting the ship's parrot in
+the succubus; if you don't send it
+somewhere, it flies off. When you
+grab it, it sheds a feather, which
+you'll need. In the First Class bar,
+you'll have to help the BarBot make
+a cocktail by finding the ingredients.
+In the restaurant, you must fight the
+maitre d' to get a table.
+
+Edge: What formats will your ganie
+come out on?
+DA: The first version is for the PC,
+but we will do a Mac one. All Macs
+are about to start shipping with DVD
+drives, and we're thinking of doing a
+hybrid Mac/PC DVD version. At the
+moment it's on three CDs, but even
+so, we've got data budget problems.
+There's something like 250Mb
+common between each of the CDs.
+
+Edge: Have you enjoyed making
+the transition from writer to games
+developer with The Digital Village?
+DA: From my point of view, I've
+been involved with TV, stage and
+radio. The book was such a success
+that it determined my involvement
+in other media. Writing was not what
+1 set out to do. If you're a writer, no
+matter how successful you are,
+there's not much you can do: you
+have to go to someone else's
+production company. so I thought
+it would be nice to have my own.
+The aim of the company is
+to become an online
+purveyor of entertainment
+and information.
+
+https://retrocdn.net/images/9/9d/Edge_UK_057.pdf
+
+**Aram Sinnreich interviews Douglas Adams**
+Aram Sinnreich interviewed Douglas Adams in 1998, ostensibly to discuss the release of his new video game, Starship Titanic. The interview covered a broad range of subjects, mostly relating to the transformation of media and culture in the internet age.
+
+Let's start with the Infocom game.
+Right.
+Now, that was your first excursion into new media, correct?
+That's right, yeah.
+And I played one or two of their games, Suspended I think I've played, and Zork.
+I can't remember, but those ones I particularly remember.
+And they were great.
+And so I worked with them on doing the Hitchhiker game and really enjoyed it.
+It was great fun because you're constructing a kind of virtual conversation that goes on
+between the player and the game.
+And at its best it could be really involving and very engaging.
+So then what happened in the mid '80s, graphics started to come along.
+And to begin with, they were really not very good.
+They kill off text games.
+I said, "Well, I think I'll just sort of go off and get on with my day job."
+So then the graphics get much better.
+You see games like sort of Mist coming out where the graphic realization of these sort
+of fantastical worlds is wonderful.
+And so I thought, "Well, that's terrific."
+But there's nothing in it that has the same kind of compelling or the same sort of engaging quality,
+I felt, as the other text adventure games.
+So I thought, "Well, basically I've got to go bring them together."
+And everybody said, "Well, that's nonsense.
+That's some madness."
+So I thought, "Oh, well, that's good.
+Nobody else is having any of that."
+And so then it's a question of making--I mean, it's got to be sort of brought a long way
+up to date and sort of take advantage of all of this and a much more powerful technology
+and the fact you can do sound and so on.
+So we constructed--I mean, we wrote about--over a period of a year, about 10,000 lines of dialogue.
+Right.
+So that--
+Which is not just sentences, but snippets of sentences.
+That's right.
+It's a mixture.
+I mean, some are sentences and paragraphs, but others are all sort of modular so they
+can sort of be assembled on the fly by the conversation engine.
+So although it has 10,000 responses, in effect, it's actually many times more than that.
+And so that was--it was a very sort of iterative process, whereby you need to do one script
+and try it out and then you record it and see how it works in the software and realize
+it's only covered sort of 1% of the things you need to cover.
+So we get together and do another pass and another pass and another pass over a period
+of a year.
+You know, that sort of came out with 10,000 lines of dialogue.
+It's about 16 hours of pre-recorded speech.
+And this is how many writers working on it?
+Three.
+Myself and Neil Richardson and Michael Bywater.
+And essentially what--to begin with, you know, we each took a couple of characters each just
+to sort of get it fleshed out.
+But then, you know, I would get together with a lot of the others.
+So you had the whole infrastructure of the game mapped out.
+Oh, yeah.
+Oh, yes, yes.
+But inevitably, as you get into developing it, you know, things start to sort of have
+repercussions, which means you've got to change this to fit with that and this to change with--
+Right.
+--and so on and so forth.
+But I think the--I mean, the process was, you know, I came up with a game to begin with,
+sort of the sort of basic strategy and the basic idea and the basic concept, and wrote
+kind of one level of detail of that.
+And then I got together with Michael Bywater, and he and I did it again to another level
+of detail.
+Then I took it again and did it to, you know, a third level of detail.
+And then when it came to doing the actual dialogue writing, which was quite a few months
+later, as I said, then it was three of us, me, Michael Bywater, and Neil Richardson.
+And, you know, it was a huge, huge task.
+And it kind of gives--I mean, the fact that, you know, we each took a character, but then
+having done that character, you know, we would each sit in on sort of rewrites of each other's
+characters and so on.
+So it--
+So nobody had kind of an uber say over the whole project?
+No.
+Did you have veto power?
+Sorry?
+Did you--
+Oh, yeah.
+No, no.
+I mean, it's my--you know, it's basically sort of my project.
+Since your name is going to be on it.
+That's right.
+Yeah.
+Yeah.
+Though towards the end, I have to say, you know, I think I was practically banned from
+the programmers room, because every time I'd go in and say, "Hey, I've just had an idea.
+Why don't we put in a bit whereby--" and they'd say, "No, go away.
+We've got to get this finished."
+I could have just endlessly fiddled with it.
+Yeah, yeah.
+So, let's see.
+Global Village.
+Digital Village.
+Digital Village.
+Oops.
+Digital Village is your personal development company?
+Not exactly.
+I mean, it's a--
+It doesn't exist purely to sort of promote my work.
+Though, in effect, in this early stage of it, that's more or less what it's doing.
+But its aim is to be a digital media and communications company.
+Mostly content development, or--?
+Mostly.
+Mostly.
+But we would also like-- we would like to develop content and also to publish other
+content.
+I mean, the thing is that, as we all know, within a few years, all the various ways in
+which we sort of communicate and entertain and inform ourselves and each other are all,
+in the end, coming down some kind of digital pipe towards us.
+Sure.
+So, it's a question of being people who are sort of publishers in that pipe and providers
+in that pipe.
+And as far as I'm-- I mean, see, the way it works, from my point of view, it's like this.
+When I started out, I was doing radio and television and stage and all sorts of different
+things.
+And then, because of the success of that damn book, it ended up that I was just writing
+books.
+And it was fine to begin with, but after a while, I began to think, hang on, I'm just
+sitting in a room typing, you know, and I actually wanted more fun than this.
+And-- but my problem is, you know, if I decide, OK, I'd like to do a TV series or I'd like
+to do a movie or I'd like to do a CD-ROM or whatever, then I kind of have to go to somebody
+else's production company, which is a problem.
+I mean, well, it may or may not be a problem, but I mean, you can never be so--
+It's a problem for anyone in the media, I think.
+What's that?
+Well, very few people have, you know, an entire production company, you know, at their hands
+anyway.
+Right, yeah.
+So, I don't think--
+What I wanted to do was to have a regular infrastructure of people that I could sort
+of work with and so that I could-- so that I could develop more ideas than I could necessarily
+do just as an author sort of sitting working by myself.
+Now, from the company's point of view, their-- the way it works is that because, you know,
+one of-- our primary sort of focus is in the new media and is in the particular-- the online
+side.
+What it means is if I do or essentially continue to do what I was doing before but with greater
+support and sort of greater range, whether it's a book, whether it's a CD-ROM, whether
+it's a movie, whether it's a television show or whatever it is, each of those projects
+will then have a sort of foot very solidly in the online world.
+And it's very, very clear that the best way of promoting stuff happening in the online
+world is to do stuff very publicly in the traditional media.
+Right.
+And of course CD-ROM now kind of counts as a traditional medium because it's simply one
+in which we still ship the bits welded to atoms.
+And--
+That's an interesting definition.
+Well, there's another definition somebody came up with the other day that when you deliver
+stuff electronically, you know, over the web or whatever, you're just-- you're stripping
+off the protons and neutrons and just delivering the electrons, which I quite like.
+So what does that say about world traditions?
+About all traditions.
+Well, that's just transferring bits.
+But not, you know, tacked to any physical media.
+Does that make it superior in some way to recorded media?
+I'm not really talking about superior.
+I mean, it's just sort of-- it's just different.
+I mean, I think all the different-- you know, all the different media are different.
+And I mean, that's what's interesting about the movement, what's interesting about moving
+from one medium to another.
+And I think, you know, saying one thing is better than another is really a waste of time.
+I was actually trying to just kind of steer you into your spiel about how interactivity
+is the status quo before--
+Oh, OK.
+All right.
+Yeah, well, I mean, what-- I guess the thing is here, I mean, you hear a lot of voices
+sort of raised saying, ooh, you know, all this interactive stuff, you know, it's not
+like sort of proper reading, you know, this is-- people should be encouraged to sort of
+read books because all this new stuff is bad for them.
+Well, on the one hand, I'm very keen to advocate people writing books.
+I think the idea that this is some kind of terrible sort of end of civilization as you
+know it is just a load of baloney.
+This was when books first came along, or indeed sort of writing or printing.
+You know, there were voices which said, ooh, this is all terribly bad and it's going to
+kill the art of storytelling.
+You know, if you put stuff on a page, then it's killing it.
+And, you know, it's another argument.
+But I just think it was also a wrong argument.
+But I sense-- I mean, the point here that you're trying to get me to make is that, you
+know, we have this word interactivity now, which is, you know, sort of buzzword for the
+last few years.
+And the reason we have that word is because we now have things that aren't interactive.
+In the past, everything was interactive and we didn't need a word-- a special word for
+it.
+But now that we have radio and television and movies and so on, which just sit there
+and do their stuff however you respond to it, it's completely non-interactive.
+We therefore have to have a word for media that come along and are interactive in the
+way that all media used to be.
+So, while I wouldn't pretend that interactive CD-ROM equates to, you know, an oral medium,
+nevertheless it does actually model some important aspects of that.
+And reverses what's been a trend in media for--
+Yeah, exactly.
+--since Gutenberg.
+Yes.
+All right.
+What are your views on Millennium Fever?
+If any.
+I think it's very simple.
+I mean, it's a completely arbitrary measure of-- you know, we happen to have five fingers
+on each hand, so ten is an important number.
+And so multiple ten numbers of rotations that we've done around the world since a completely
+arbitrary date in the first place.
+Because, you know, even if you happen to subscribe to the Christian religion, then one thing
+we know is that the first of January zero was not when Christ was born.
+Right.
+So, probably not by several years.
+So, it's also a completely-- and when we sort of have pedants say, "Well, it's actually
+the new millennium," it doesn't really start on the first of January 2000.
+It's the first of January 2001.
+You're completely missing the point because all of this is completely arbitrary anyway.
+What we're celebrating is the same thing, you know, when you have a car and the first
+time you pass 10,000 miles and all the digits change.
+And, "Woo!
+That's good.
+That was fun."
+So, we're celebrating the fact that all digits change and that's all we're celebrating.
+That's fine.
+Good excuse for a party.
+But, I mean, I think, you know, you go to the-- all the people say, "No, we're not going
+to celebrate the millennium now until, you know, 31st of December year 2000."
+Basically, you'll know that those are parties full of pedants.
+You know, if you want to go to a party inhabited by pedants, well, I've got plenty of things
+to do.
+Don't you think that the kind of collective excitement about it creates some kind of zeitgeist?
+I guess so.
+I mean, that's true enough.
+That if enough people get excited about something, even if that thing is completely fictitious,
+then it takes on a life of its own.
+And, but, it's hard to know what-- it's funny, we've kind of gone into the habit of sort
+of dividing things up into sort of neat periods.
+We all know what we mean when we talk about the '60s.
+Right.
+And it's kind of incredibly neat and useful that the Beatles split up at the end of 1969
+because that kind of therefore defines the end of the '60s.
+Right.
+Although pedants will argue it was Altamont or whatever.
+Right.
+Yeah, OK, right, yeah.
+But, well, I-- whatever it was, I mean, there is a clear thing on the '60s end and the '70s
+started and everybody started wearing flares, which we're trying to forget about now.
+But I think that-- I suppose, you know, moving into a new century, we're kind of constantly
+trying to mind people's minds on what is new, which is, I think, quite a good thing.
+It's very interesting having a daughter who's nearly four and thinking, well, I am essentially
+a 20th century person.
+She is essentially a 21st century person, which kind of gives me a bit of a shiver, you know.
+Yeah, I worry about the generation gap between me and my kids, too.
+What kids have you got?
+I don't have any yet.
+OK, all right.
+[laughter]
+It gives me pause before I can see them.
+But I think that, you know, that's a very valid point, is that, you know, any children
+that I have will view me as a relative of past age, if only by arbitrary measurements.
+And so much has changed in terms of the way that, you know, our culture is organized
+in terms of digital media and everything.
+What can you say about the 20th century?
+I mean, the 20th century really is...
+One of the things that's interesting, of course, is that the 20th century is the age of new
+physics, because, you know, the special theory of relativity came out in 1905, which is kind
+of a defining moment in all kinds of ways.
+I suspect that, you know, if one wants to make these kind of arbitrary judgments, that
+this is the 20th century, it's been a century in which physics has been the queen of the
+sciences.
+I think the 21st century will be a century in which biology is the queen of the sciences,
+because we've now finally...
+In sequencing the human genome.
+Well, I think that's absolutely part of it.
+But I think it goes a little bit more than that.
+I think it's up until now, we've proceeded to investigate nature by taking things apart
+to see how they work.
+And that's allowed us to arrive at the sort of fundamental principles, fundamental particles,
+and sort of the simplest things.
+And what a computer is enabled to do is to kind of reverse that process and start putting
+things together to see how they work.
+Because a previously...
+The process was something that was very, very hard for us to understand or to envisage.
+It's curious to think that it's not that long ago we didn't even know how a horse could
+put its feet down, in what order.
+It was only when you get a camera, a video, a cine camera, that you can actually stop
+frames and say, "Oh, okay, that's the order in which they..."
+It's an extraordinary thing.
+We could never, in centuries, figure out what was the order in which a galloping horse
+put its hooves down.
+An extraordinary idea.
+You'd think somebody would lay down some wet sand or something.
+I don't know.
+I think, would that...
+No, you'd just see the pattern, not the order.
+Yeah, you'd see the pattern and not the order, necessarily.
+Put it this way, if it was as easy as that, I think somebody would have done it.
+Right.
+But still, by the same token, what the computer is enabled us to do is to see process at work,
+and to see growth at work.
+I mean, we've suddenly come to an understanding of life sciences that wasn't available to
+this report, and we're seeing how evolutionary processes work, and seeing that they're profoundly
+simple, even though they give rise to enormous complexity.
+And so I think that biology previously has been almost invisible to us, and of all the
+extraordinary phenomena we've examined in the past, we've always sort of thought of
+bodies, whether they're sort of animal or human, as being...
+We haven't actually been sufficiently curious about them, because the order of complexity
+involved in them is so far beyond our ability to apprehend that it's just been a kind of
+descriptive science.
+Now that we have these digital tools that enable us to model the life processes, suddenly
+they've become visible to us, and processes have become visible to us.
+And I think that's...
+So, you know, biology suddenly becomes accessible to us as something we can actually understand
+and do something meaningful with.
+I'm sure we'll make catastrophically appalling errors, just as we did with, you know, atomic
+physics.
+But we'll survive, and we'll get through, and we'll have learned something interesting.
+Maybe without our genetic sequence entirely intact.
+Yeah, yeah.
+Do you see that as being a point of departure for a work of fiction?
+In the future, maybe?
+Well, I don't know.
+I mean, the thing is, I tend not to...
+I guess the sort of science fiction I write tends not to be sort of, if you like, predictive
+fiction.
+I mean, it's more...
+I mean, every now and then I wonder whether I should write a sort of work of pure science
+fiction, as opposed to sort of using it as a vehicle for comedy.
+But I haven't kind of done it yet, and I kind of feel a bit nervous about whether I'll be
+able to do it.
+So, no, I mean, I tend...
+I mean, it's...
+The ideas I tend to go for sound more like sketch ideas rather than science fiction ideas.
+Or social commentary, I'm afraid.
+I mean, like, Hitchhiker sort of started out with the idea of somebody who, you know, is
+trying to protect his house from being knocked down to make way for a new road, and then
+exactly the same thing happens to the planet.
+So it's that kind of deal, rather than about some piece of science.
+So, you know, my interest in science then tends to sort of color what goes on inside that.
+Back to Digital Village.
+Do you see the relationship with Simon & Schuster going on indefinitely, or is this kind of
+a one-shot deal?
+I think we're taking it on a case-by-case basis.
+And you said you see potentially the company developing work by other artists.
+Has anyone approached you?
+Have you approached anyone yet?
+Oh, well, we've got plenty of opportunities.
+I mean, our challenge is to make sure we don't try and, you know, because we're a very young,
+small company, and, you know, two years ago we didn't employ anybody at all.
+Now we've employed enough people to create this game over the last two years, and it's
+actually been a phenomenal achievement when I say that, because, not to congratulate myself,
+but the running of this project, the managing of this project has been the most phenomenal
+task, and that's been done largely by our CEO, a guy called Robbie Stamp, who's really
+sort of taken this on his shoulders and done a magnificent job.
+But managing the growth of a company and saying, "Okay, we're going to do this, and we're
+not going to do that, we're not going to do that, maybe we'll do this," is actually
+very, it's kind of very tricky, because, you know, you can, you only, you take one misstep
+and, you know, do one thing that stretches you beyond your ability to control or manage
+it or deal with it.
+You know, the company just dies just like that, so we have, so, you know, exactly the
+strategy from here on forward, it's kind of hard to know at the moment.
+We'll almost certainly be doing another game based on Hitchhiker to go with the movie.
+I didn't know there was a movie.
+Oh, yeah, yes, there's finally going to be a movie.
+Well, the production vehicle is a caravan backed by Disney.
+The director is Jay Roach, who did Austin Powers.
+Great movie.
+And so it's all looking pretty set there at the moment, and hopefully it's going to be
+a movie of Dirt Gently as well.
+I guess the script has been out there for 20 years, right?
+Just kind of bouncing back and forth.
+Well, in fact, I recently discovered that there was a version of the script that I didn't
+write, but was written by somebody else after I kind of departed from Ivan Reitman.
+And, you know, that script has been out there for ages, and I think there's probably a reason
+why it never got made.
+But, no, I'm actually writing a whole new script, which, after having done lots of different
+versions of it, this one is actually going.
+Yeah, well, this one is going to go much more back towards where it actually started from,
+rather than...
+Over the years, I've tried to change it in all kinds of ways to move it away from what
+it was and to be more like a movie.
+And I suddenly think, no, no, no, it worked as it was for a reason, so let's try and stick
+very closely to that.
+One last question.
+The ownership of Titanic, just a fortuitous coincidence, or did you anticipate Titanic
+fever?
+Well, I mean, the answer to that, I'm afraid, is terribly, terribly obvious.
+How could anybody have anticipated that?
+I mean, certainly Paramount didn't, or they wouldn't have tried to sell off half of their
+ownership of Fox, you know, because everybody thought it was going to be a complete disaster.
+We weren't even aware of the movie until about a year ago, when gradually word came out that
+this movie was happening, that it was going to be a disaster because it was overspending
+by an order of magnitude and it wasn't working and so on and so forth.
+So people said to us, you know, "Yeah, there's this thing coming, are you sure you shouldn't
+change the name of your product?"
+And I sort of said, "No, let things fall where they fall."
+So it didn't really give you any fears or make you take pause?
+No, no.
+I mean, other people said I should, but the point is, I mean, I think you do what you
+do for the reasons you do it, and if you change it because of, you know, what somebody...
+It's funny, when I did this book years ago, The Meaning of Lift, do you remember that?
+It's funny because I wrote that with a friend of mine called John Lloyd, and he and I had
+been looking for a title for ages and ages and ages, couldn't figure out a title, and
+eventually, eventually we came upon one that we both agreed on, which was The Meaning of
+Lift.
+And so at last, that was great, that was terrific.
+And I remember about three or four days later, I happened to be talking to Terry Jones on
+the phone, and he said, yeah, and he said, "We've just come up with a title for our new
+film, it's going to be Monty Python's Meaning of Life."
+And I said, "Oh, oh no."
+And he said, "What's that?"
+And I said, "Well, we call it The Meaning of Lift."
+And he said, "Oh, well, it doesn't matter."
+Yeah, we got there first, and he said, "Oh, well, it doesn't matter."
+And it's funny, a lot of people said, "Oh, it's going to cause all sorts of confusion
+in the public," and of course it didn't.
+It really didn't at all, you know.
+And, you know, if you...
+If we'd listened to people who said, "Oh, you've got to change it to this or the other."
+So, you know, Catch-22 was originally named Catch-11.
+Catch-18, oh, was it?
+Catch-11, I thought.
+Oh, well, no, I heard him on the radio the other day saying Catch-18.
+
+https://ia801304.us.archive.org/14/items/ASDA042198/Aram%20interviews%20Douglas%20Adams%204-21-98.ogg
 
 **Starship Titanic 25th anniversary**
 https://www.alisonhumphrey.com/2023/03/starship-titanic-25th-anniversary.html
