@@ -1,0 +1,197 @@
+/* --- Global Resets & Basic Setup --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif; /* Clean sans-serif for body */
+	font-size: 14;
+    line-height: 1.2;
+    color: #ffffff; /* Light grey text */
+    background-color: #000010; /* Deep space blue/black fallback */
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    position: relative; /* Needed for absolute positioned backgrounds */
+    min-height: 100%;
+}
+
+/* --- Starry Background Layers --- */
+/* We use pseudo-elements or dedicated divs for layers to allow complex backgrounds */
+
+.stars-background,
+.nebula-background {
+    position: fixed; /* Fixed position so they don't scroll */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Place behind content */
+    background-repeat: repeat;
+}
+
+/* Layer 1: Small, dense stars */
+.stars-background {
+    background-image:
+        radial-gradient(1px 1px at 20px 30px, #eee, rgba(0,0,0,0)),
+        radial-gradient(1px 1px at 40px 70px, #fff, rgba(0,0,0,0)),
+        radial-gradient(1.5px 1.5px at 50px 160px, #ddd, rgba(0,0,0,0)),
+        radial-gradient(1px 1px at 150px 40px, #fff, rgba(0,0,0,0)),
+        radial-gradient(1.5px 1.5px at 110px 100px, #eee, rgba(0,0,0,0));
+    background-size: 200px 200px; /* Control density */
+    opacity: 0.7;
+    /* Optional: Add subtle animation */
+    /* animation: twinkle 15s linear infinite alternate; */
+}
+
+/* Layer 2: Faint Nebula */
+.nebula-background {
+    background: radial-gradient(ellipse at 70% 30%, rgba(100, 120, 200, 0.2), transparent 70%),
+                radial-gradient(ellipse at 20% 80%, rgba(180, 100, 150, 0.15), transparent 60%);
+    opacity: 0.8;
+    /* Optional: Add slow movement */
+    /* animation: drift 120s linear infinite alternate; */
+}
+
+/* --- Content Container --- */
+.content-container {
+    max-width: 850px;
+    margin: 60px auto; /* Center container with top/bottom margin */
+    padding: 30px 40px;
+    background-color: rgba(10, 20, 40, 0.85); /* Semi-transparent dark blue */
+    border: 3px solid #D4AF37; /* Art Deco-ish Gold/Brass border */
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 0 25px rgba(212, 175, 55, 0.3); /* Subtle gold glow */
+    position: relative; /* Ensure it's above the fixed backgrounds */
+    z-index: 1;
+}
+
+/* --- Header Styling --- */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.4); /* Faint gold line */
+}
+
+header h1 {
+    font-family: 'Orbitron', sans-serif; /* Retro-futuristic font */
+    font-size: 2.8em;
+    color: #FFD700; /* Bright Gold */
+    margin-bottom: 5px;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+}
+
+header h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300; /* Lighter weight */
+    font-size: 1.2em;
+    color: #b0c4de; /* Light steel blue */
+    font-style: italic;
+}
+
+/* --- Main Content Styling --- */
+main article {
+    margin-bottom: 30px;
+}
+
+main h3 {
+    font-family: 'Orbitron', sans-serif;
+    color: #E8C468; /* Softer Gold */
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    border-bottom: 1px dashed rgba(212, 175, 55, 0.3);
+    padding-bottom: 5px;
+}
+
+main p {
+    margin-bottom: 1em;
+    color: #d3d3d3; /* Slightly brighter than default text */
+}
+
+main ul {
+    list-style: none; /* Remove default bullets */
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+main li {
+    margin-bottom: 8px;
+    position: relative;
+    padding-left: 25px;
+}
+
+/* Custom bullet point - like a small status light */
+main li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 8px; /* Adjust vertical alignment */
+    width: 8px;
+    height: 8px;
+    background-color: #4DB8FF; /* A console-light blue */
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(77, 184, 255, 0.6);
+}
+
+/* --- Link Styling --- */
+a {
+    color: #66c2ff; /* Brighter blue for links */
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+a:hover, a:focus {
+    color: #FFD700; /* Gold on hover */
+    text-decoration: underline;
+    text-shadow: 0 0 5px rgba(255, 215, 0, 0.4);
+}
+
+/* --- Footer Styling --- */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(212, 175, 55, 0.4); /* Faint gold line */
+    font-size: 0.9em;
+    color: rgba(224, 224, 224, 0.7); /* Faded text */
+}
+
+/* --- Optional Animations (Uncomment to enable) --- */
+/*
+@keyframes twinkle {
+    0% { opacity: 0.6; }
+    50% { opacity: 0.8; }
+    100% { opacity: 0.6; }
+}
+
+@keyframes drift {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(10px, 5px); }
+}
+*/
+
+/* --- Basic Responsiveness --- */
+@media (max-width: 768px) {
+    .content-container {
+        margin: 30px 15px;
+        padding: 20px;
+    }
+
+    header h1 {
+        font-size: 2.2em;
+    }
+
+    header h2 {
+        font-size: 1em;
+    }
+
+    main h3 {
+        font-size: 1.3em;
+    }
+}

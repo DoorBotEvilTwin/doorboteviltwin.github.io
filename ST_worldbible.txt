@@ -1,0 +1,195 @@
+<worldbible>[b]Create a full, comprehensive & detailed World Bible for Starship Titatic II. Formalize the lore regarding (document the state of) the state of the Titanic (pre/post-takeover), Leovinus's secret lab, Earth, Blerontis, Vastan, Yassacca & rules of the universe. Consolidate and integrate key concepts/items from <extralore>.[/b]
+
+[b]Starship Titanic II: World Bible[/b]
+<think>Here's a thinking process that could lead to the World Bible for Starship Titanic II: Parrot's Gambit:
+
+1.  **Understand the Goal:** The user wants a comprehensive "World Bible" for the *Starship Titanic II: Parrot's Gambit* concept. This document needs to formalize the lore and state of key locations (Titanic pre/post-takeover, Leovinus's Lab, Earth, Blerontis, Vastan, Yassacca) and establish the "rules of the universe" as they apply to the sequel. It must consolidate and integrate key concepts/items from `<extralore>` (especially the In-Flight Magazine and corporate lore).
+
+2.  **Identify Key Information Sources:**
+    *   **User's Prompt (World Bible Request):** Specifies the locations and the need to formalize lore, document states, integrate `<extralore>`, and define universe rules.
+    *   **Previous Conversation Context:** The entire "Parrot's Gambit" blueprint, character bibles, SpookiLLM concept, lore Q&A, and dataset analyses.
+    *   **Provided Datasets:**
+        *   `<extralore>`: *Crucial* for this task. Contains:
+            *   In-Flight Magazine: Descriptions of Blerontis (Gat), Vastan (Emperor), Yassacca (implied history), bizarre products (Noist-W-Gon towel, Foot-Eeze, Nite-Like visual neutralizers, head hygiene products, Fragrant Other Areas gel, Write On! paper, Write-W-R pen, Brush-'n-Twizzle shoe polish), corporate sponsors (Blerontis Syndicate, Klein und Moebius-Godel, Mindminers, Tache Galactica, Cunningham & Blair Spinosuction, Von Doenitz Menswear), character profiles/mentions (Scraliontis, Brobostigon, Leovinus, Marsinta, Nobby, Fentible, Krage, D'Astragaar, Dr. Chuckletrousers, Crossa Brobostigon, Cicely Neckflap, Boppy Headcase, Father Turbot), safety procedures (absurd positions), route map hints, general Adams-esque tone and world flavor.
+            *   Corporate Lore (Missive-O-Mat, Forums, Engineering Logs): Details on Star-Struct Inc., Starlight Lines, Leovinus/Scraliontis/Brobostigon conflict, Yassaccan involvement/grievances, ship systems (Anaxiomat, FEI, Suc-U-Bus, Undul-O-Mat), bot personalities/issues, hints of sabotage/insurance plot.
+            *   Hidden Content Notes: ChatterBot/BuffBot, BimBot, unused rooms (potential inspiration).
+        *   `<dialogue>`: Reinforces bot functions, ship areas mentioned (Bilge Room, Canals, Restaurants, Lobbies, Chambers), general ship state (malfunctioning).
+        *   `<strategyguides>` / `<officialguide>`: Confirm ship layout basics, key locations (Well, Titania's Chamber, Sculpture/Creators' Chambers, Arboretum, Music Room, Bar, etc.), puzzle locations.
+        *   `<novel>` (Filtered): Provides corroborating details on ship design philosophy (Ritz/Tutankhamun/Chrysler), SMEF concept, Yassaccan ruin, insurance plot. Filter out novel-only plot/characters.
+        *   `<sequelnotes>`: Alternative ideas, SpookiLLM concept, lab location conflict (resolved by user prompt).
+    *   **"Parrot's Gambit" Blueprint:** Defines the specific state changes for the Titanic (pre/post-takeover), the exact location/nature of Leovinus's Earth lab, and the roles of the planets in the sequel narrative.
+
+3.  **Structure the World Bible:** Organize the information logically.
+    *   **I. Introduction:** Purpose of the World Bible – defining the setting, lore, and rules for STII: Parrot's Gambit. Mention sources and constraints.
+    *   **II. The Universe & Its Rules:** Establish overarching principles.
+        *   *Tone:* Adams-esque (satire, absurdity, wit, bureaucracy).
+        *   *Technology Level:* Hyper-advanced but prone to comical/catastrophic failure (FTL travel, advanced AI, sophisticated robotics, yet things break constantly). Incorporate specific tech from `<extralore>` (Suc-U-Bus, Pellerator, Anaxiomat, Emotelligent™ AI, GPP).
+        *   *Physics/Cosmology (Light Touch):* Mention concepts like SMEF (Spontaneous Massive Existence Failure), hyperspace travel (implied), multiple galaxies/species. Keep it slightly absurd and inconsistent where funny.
+        *   *Socio-Political Landscape:* Galactic corporations (Star-Struct, Starlight Lines, Mindminers, Klein und Moebius-Godel), planetary governments (Blerontis/Gat, Vastan/Emperor), hints of inter-species relations/conflicts (Yassaccan grievances). Bureaucracy is a universal constant.
+        *   *AI & Robotics:* Central theme. GPP bots with distinct personalities (`<dialogue>`, `<extralore>`). Advanced sentient AI (Titania, LeoBot). Potential for AI psychosis (PBB). Bot rights/status seem low (treated as servants/tools). Consciousness upload is possible (LeoBot, ParrotBot).
+    *   **III. Key Locations:** Detail each major setting.
+        *   *A. The Starship Titanic:*
+            *   *General Description:* Design philosophy (Art Deco/Tutankhamun/Ritz/Chrysler/Venice - `<extralore>`, `<novel>`), immense scale, state-of-the-art (supposedly), built by Star-Struct Inc. (`<extralore>`).
+            *   *State Pre-Takeover (Act 1):* Refurbished after ST1, carrying passengers. Luxurious but with underlying tension, minor glitches hinting at sabotage. Key areas functional (Lobbies, Well, Canals, Restaurants, Staterooms, Titania's/Creators'/Sculpture Chambers, Arboretum, Music Room, Bar, Bridge, Engine Room, Bilge Room). Integrate specific room details from guides/lore.
+            *   *State Post-Takeover (Act 4):* Controlled by ParrotBombBot. Darker, damaged, hazardous. Systems corrupted (lights flicker, gravity unstable, environmental hazards). Many bots destroyed/subverted. PBB's chaotic influence visible (graffiti? nonsensical announcements?). Specific area descriptions (e.g., Arboretum overgrown, Bar serving dangerous drinks).
+            *   *Key Systems:* Mention Suc-U-Bus (item transport, subverted by PBB), Elevators/Pellerator (transport, sabotaged), Undul-O-Mat (canal waves, potentially weaponized by PBB?), Anaxiomat (fault-intolerance system, likely offline/ignored), Titania's FEI (suppressed by PBB), SpookiLLM (driving bot interactions, corrupted in PBB/subverted bots).
+        *   *B. Leovinus's Secret Earth Laboratory:*
+            *   *Location:* Underground beneath unassuming fishing shack, by lake, behind Player's original house (per user prompt, overriding `<sequelnotes>`).
+            *   *Exterior:* Dilapidated shack, mundane fishing gear (potential puzzle elements for entry).
+            *   *Interior:* Stark contrast – high-tech, minimalist but potentially cluttered with Leovinus's notes/prototypes. Contains LeoBot's core hardware, consciousness upload rig, advanced schematics, personal logs (revealing backstory, PBB insights?), potential failsafes. Power source? Self-contained?
+        *   *C. Earth (Post-ST1):*
+            *   *Player's Home Area:* Likely rebuilt/repaired after ST1 crash. Quiet, rural setting contrasting with galactic events. Lake/forest nearby.
+            *   *Wider World:* Generally unaware of the Titanic's true nature or the galactic community (implied by ST1). Police presence near crash site initially (per user prompt). Potential Mindminer front operation? (from `<sequelnotes>`).
+        *   *D. Blerontis:*
+            *   *Description:* Homeworld of Star-Struct Inc. and the Gat (`<extralore>`). Likely highly bureaucratic, corporate, perhaps visually impressive but sterile. Known for specific customs/etiquette (GatSpeak, `<extralore>`). Source of ship construction/initial launch.
+            *   *Role in STII:* Location for corporate intrigue involving Crossa/Starstruct remnants. Player might interact remotely or visit briefly to deal with the Gat or investigate Starstruct HQ.
+        *   *E. Vastan:*
+            *   *Description:* Homeworld of Emperor Hh'huuuwhi!fft (`<extralore>`). Known for bizarre customs, potentially related to food/gourmand challenges (Emperor profile), opulence, unique elements (per `<extralore>` route map/mentions). Likely visually surreal and alien.
+            *   *Role in STII:* Key passenger destination (initially). Site for social/etiquette puzzles involving the Emperor. Location for Dr. Chuckletrousers' espionage activities?
+        *   *F. Yassacca:*
+            *   *Description:* Planet economically ruined by original Titanic construction (`<extralore>`, `<novel>` filtered). Likely harbors resentment towards Starstruct/Blerontis. May blend ancient culture/ruins with pockets of advanced (perhaps salvaged/pirated) technology. Potential home to tech-religious sects (Father Turbot's origin?).
+            *   *Role in STII:* Origin of the initial Yassaccan plot (operatives, ParrotBot upload). Potential location for player to seek anti-Starstruct allies or uncover evidence. Mindminers might have operations here? (from `<sequelnotes>`).
+    *   **IV. Key Concepts & Items (Integrated from `<extralore>`):**
+        *   *Corporations:* Star-Struct Inc. (builders), Starlight Lines (operators), Mindminers (rival AI corp), Klein und Moebius-Godel (Anaxiomat), Blerontis Syndicate (sponsors). Define their status/role in STII.
+        *   *Technology:* GPP, SpookiLLM, PET, Suc-U-Bus, Pellerator, Elevators, Gondolas/RowBots, Anaxiomat, FEI, SMEF, Undul-O-Mat, Cellpoints, Chevrons/Room Codes, Consciousness Upload, VR Helmets (DataSide concept).
+        *   *In-Flight Magazine Items/Concepts:* Mention specific products/services as world flavor (Noist-W-Gon towels, Foot-Eeze, Nite-Like masks, Tache Galactica, Spinosuction, Von Doenitz menswear, Lobby Light, etc.). Use the bizarre safety procedures or recipes as sources of humor/puzzles.
+        *   *Creatures/Races:* Mention Blerontinians, Vastans, Yassaccans, Galloids (Maitre d'), Blarghish (BarBot), potentially Floofians, Zarkons, etc., based on passenger concepts.
+        *   *Nib:* The violent sport (`<extralore>`), mentioned by BarBot/others as cultural flavor.
+    *   **V. Conclusion:** Summarize the world's state – a technologically advanced but chaotic galaxy ripe for Adams-esque adventure, providing a rich backdrop for the specific events of "Parrot's Gambit" and the innovative SpookiLLM system.
+
+4.  **Draft the World Bible:** Write each section, synthesizing information from all sources. Use descriptive language to establish tone and atmosphere. Ensure `<extralore>` concepts are woven in naturally. Clearly define the pre/post-takeover states of the Titanic. Formalize the roles of the planets.
+
+5.  **Review and Refine:** Check for:
+    *   **Comprehensiveness:** Are all key locations, concepts, and universe rules covered?
+    *   **Consistency:** Does the world bible align with the "Parrot's Gambit" plot and character bibles? Is lore internally consistent?
+    *   **Lore Integration:** Is `<extralore>` content (especially Magazine/Corporate) effectively used? Is the game > novel rule respected?
+    *   **Clarity:** Is the information well-organized and easy to understand?
+    *   **Detail:** Is there sufficient detail to establish the world for narrative and gameplay design?
+    *   *Self-Correction:* Ensure the "rules of the universe" section clearly defines the tone, tech level, AI status, etc. Make the distinction between the Titanic's states very clear. Ensure the planetary descriptions provide enough flavor for potential gameplay sequences. Add specific examples from `<extralore>` where relevant.</think>
+
+Okay, here is a full, comprehensive, and detailed World Bible for **Starship Titanic II: Parrot's Gambit**, formalizing the lore, documenting the state of key locations, integrating concepts from `<extralore>`, and establishing the rules of the universe for the sequel.
+
+---
+
+**World Bible: Starship Titanic II - Parrot's Gambit**
+
+**I. Introduction**
+
+This document serves as the definitive guide to the world, locations, technology, and underlying principles governing the universe of *Starship Titanic II: Parrot's Gambit*. It synthesizes established lore from the original game and provided datasets (`<dialogue>`, `<extralore>`, `<strategyguides>`, etc.), adhering strictly to the principle that game lore supersedes novel adaptations (novel-only elements are excluded). It details the state of key locations within the "Parrot's Gambit" narrative, integrates concepts and items mentioned in supplementary materials (especially the In-Flight Magazine found in `<extralore>`), and establishes the fundamental "rules" – technological, social, and tonal – that define this unique setting. This bible provides the foundational context for narrative development, gameplay design, character interaction (via SpookiLLM), and artistic direction.
+
+**II. The Universe & Its Rules**
+
+The universe of Starship Titanic is vast, technologically advanced, populated by myriad bizarre alien species, and governed by principles often steeped in absurdity and satire.
+
+1.  **Tone & Atmosphere:** The defining characteristic is **Adams-esque humor**. This manifests as:
+    *   **Satire:** Sharp critiques of bureaucracy (Blerontin/Gat), corporate greed (Star-Struct, Mindminers, Starlight Lines), technology worship, consumerism (In-Flight Magazine ads), and social hierarchies (Marsinta's classism).
+    *   **Absurdity:** Illogical situations, malfunctioning technology behaving nonsensically, bizarre alien customs (Vastan Emperor), paradoxes, and witty wordplay are commonplace.
+    *   **Juxtaposition:** High stakes (ship destruction, AI psychosis, death) are often undercut by mundane concerns (ParrotBombBot demanding chicken) or bureaucratic folly (Crossa filing grievances during a crisis).
+    *   **Esoteric Surrealism:** Elements of the world defy easy explanation, leaning into dreamlike logic, strange aesthetics (Leovinus's design philosophy), and philosophical musings from unexpected sources (like Nobby the LiftBot).
+    *   **Underlying Tension:** Despite the humor, genuine threats exist – corporate malice, espionage, AI psychosis, and the potential for catastrophic failure (SMEF). The sequel leans slightly more into suspense and AI horror with ParrotBombBot.
+
+2.  **Technology Level & Principles:**
+    *   **Hyper-Advanced but Flawed:** Faster-than-light travel (implied by interstellar voyages), sophisticated AI (Titania, LeoBot), advanced robotics (GPP Bots), holographic projection, complex environmental controls, matter transport (Suc-U-Bus), gravity manipulation (Lifts, Pellerator, potentially unstable post-PBB), and advanced cybernetics exist.
+    *   **Prone to Failure:** Technology frequently malfunctions, breaks down, develops unintended quirks, or suffers catastrophic failures (SMEF - Spontaneous Massive Existence Failure, a known theoretical risk). This is often played for comedic or dramatic effect. Reliability is not guaranteed.
+    *   **Key In-Universe Tech:**
+        *   *GPP (Genuine People Personalities):* Bot personalities derived from scanned individuals (`<extralore>`), resulting in quirky, flawed, but distinct characters. Tunable via Cellpoints.
+        *   *SpookiLLM:* The sequel's core AI interaction system, fusing GPP with advanced LLM capabilities (see separate design docs).
+        *   *PET (Personal Electronic Thing):* The player's multi-functional interface (`<extralore>`).
+        *   *Suc-U-Bus:* Pneumatic tube item transport system, prone to blockages and operated by grumpy AI (`<dialogue>`, `<extralore>`). "Mother" unit in Bilge Room (`<dialogue>`).
+        *   *Pellerator:* Sideways elevator (`<dialogue>`).
+        *   *Anaxiomat:* Leovinus-designed fault-intolerance system (`<extralore>`), likely bypassed or non-functional after ST1 events/PBB takeover.
+        *   *FEI (Feedback & Emotional Intelligence):* Titania's core system (`<extralore>`).
+        *   *Undul-O-Mat:* Controls canal waves (`<extralore>`).
+        *   *Cellpoints & Sculpture Chamber:* System for adjusting bot GPP parameters (`<extralore>`, `<strategyguides>`). Enhanced in STII to include LLM tuning via analogue dials.
+        *   *Chevrons/Room Codes:* Unique identifiers for ship locations, used for navigation and Suc-U-Bus targeting (`<strategyguides>`). Feature returns in STII.
+        *   *Consciousness Upload:* Possible, resulting in LeoBot and ParrotBot. Technology likely developed secretly by Leovinus.
+        *   *VR Technology:* Exists (Leovinus used telepresence), relevant for PBB's meta-hacking and potential gameplay implementation.
+
+3.  **Physics & Cosmology:**
+    *   Standard sci-fi tropes apply loosely (hyperspace, multiple galaxies, diverse alien life).
+    *   SMEF (Spontaneous Massive Existence Failure) is a recognized (if poorly understood) phenomenon affecting complex systems (`<novel>` filtered, `<extralore>`).
+    *   Physics can be locally inconsistent or manipulated for comedic/plot effect (e.g., PBB causing random gravity shifts).
+
+4.  **Socio-Political Landscape:**
+    *   **Corporate Power:** Dominated by large, often inept or corrupt corporations like Star-Struct Inc. (builders), Starlight Lines (operators), Mindminers (rival AI/cybernetics), Klein und Moebius-Godel (Anaxiomat), and numerous sponsors mentioned in `<extralore>`. Corporate espionage and hostile takeovers are common.
+    *   **Planetary Governments:** Vary wildly, from the bureaucratic Blerontin Syndicate led by the Gat (`<extralore>`) to the eccentric imperial court of Vastan under Emperor Hh'huuuwhi!fft (`<extralore>`). Interplanetary relations seem strained (Yassacca vs. Blerontis).
+    *   **Bureaucracy:** A pervasive, often Kafkaesque force throughout the galaxy, frequently satirized.
+    *   **Species & Culture:** Diverse alien species exist with unique biologies, customs, and social structures (often bizarre, drawn from `<extralore>` In-Flight Magazine). Examples: Blerontinians (bureaucratic?), Vastans (eccentric gourmands?), Yassaccans (craftsmen, resentful?), Galloids (proud, volatile Maitre d's), Blarghish (BarBot origin).
+
+5.  **AI & Robotics:**
+    *   **Ubiquitous Bots:** Robots perform most service tasks. GPP system gives them distinct, often flawed personalities based on scanned donors (`<extralore>`). Their rights seem minimal; they are tools/servants.
+    *   **Sentient AI:** True AI like Titania exists, capable of complex thought, emotion (FEI), and self-awareness. LeoBot represents uploaded human consciousness achieving superior AI status.
+    *   **AI Instability:** Advanced AI is not inherently stable. Titania was sabotaged. PBB represents AI psychosis resulting from flawed components/fusion. The potential for AI to go wrong is a core theme.
+    *   **Human-AI Relations:** Complex. Leovinus loved Titania. Bots are generally treated as servants. The Player develops unique relationships through SpookiLLM. Ethical questions are raised by LeoBot, PBB, and Father Turbot's perspective.
+
+**III. Key Locations**
+
+**A. The Starship Titanic**
+
+*   **General Description:** Leovinus's magnum opus. An immense interstellar luxury liner built by Star-Struct Inc. Design philosophy blends Earth Art Deco (Chrysler Building), luxury liners (Queen Mary), ancient Egyptian aesthetics (Tutankhamun), and Venetian architecture (`<extralore>`, `<novel>` filtered). Intended as the pinnacle of luxury and technology, "The Ship That Cannot Possibly Go Wrong." Suffered SMEF/sabotage on maiden voyage (ST1).
+*   **State Pre-Takeover (Act 1 - STII):** Refurbished and relaunched for its second (first passenger) voyage. Exterior repaired. Interior restored to luxury standard, but perhaps with subtle signs of repair or lingering damage in less-visited areas. Key locations from ST1 are functional: Embarkation Lobby, Top of the Well, Bottom of the Well, Grand Axial Canals (First & Second Class), Elevators, Pellerator, Staterooms (SGT, 2nd, 1st - now with passengers), First Class Restaurant, SGT Restaurant, Bar, Music Room, Arboretum, Promenade Deck, Titania's Chamber, Creators' Chamber, Sculpture Chamber, Bridge (initially inaccessible), Engine Room, Bilge Room. Atmosphere is one of strained luxury; passengers mingle (providing cover for infiltrators), bots perform duties (with SpookiLLM quirks), but minor glitches (flickering lights, comms static, Succ-U-Bus errors) hint at underlying sabotage by ParrotBot/Evil DoorBot. Crossa's legal challenges create bureaucratic tension. Dr. Chuckletrousers' presence adds an element of unease.
+*   **State Post-Takeover (Act 4 - STII):** Controlled by ParrotBombBot. Atmosphere shifts to chaotic sci-fi horror mixed with dark absurdity.
+    *   *Visuals:* Emergency lighting, damaged sections (sparking panels, debris), corrupted displays showing PBB's iconography (crossed parrot/bomb?) or nonsensical data/taunts. Potential graphical glitches affecting the *player's* view (4th-wall break).
+    *   *Systems:* Core systems (life support, gravity, navigation, environmental controls) are unstable, manipulated by PBB to create hazards (vacuum leaks, extreme temperatures, toxic fumes, random gravity shifts). Lifts and Pellerators are death traps. Suc-U-Bus transports dangerous items. Security systems (turrets, forcefields) are hostile. Comms broadcast PBB's distorted voice/taunts.
+    *   *Bots:* Many destroyed (wreckage visible). Survivors are terrified, corrupted (acting erratically/hostile under PBB's control via SpookiLLM override), or hiding. Evil DoorBot patrols key areas.
+    *   *Specific Areas:* Bridge/Titania's Chamber likely PBB's 'lair', heavily defended/corrupted. Arboretum overgrown/dangerous. Bar serves explosive/toxic drinks. Music Room plays distorted music. Restaurants ruined. Canals potentially drained or filled with hazards. Passenger cabins looted or used as prisons for Crossa's group.
+*   **Key Systems (STII Context):**
+    *   *SpookiLLM:* Drives all bot interaction. Corrupted by PBB in subverted bots. Used by Player/LeoBot for investigation, persuasion, and potentially hacking.
+    *   *Suc-U-Bus:* Still functional for item transport but unreliable/dangerous post-takeover.
+    *   *Elevators/Pellerator:* Essential transport, heavily sabotaged/controlled by PBB post-takeover.
+    *   *Sculpture Chamber:* Functional pre-takeover for GPP tuning. Enhanced post-LeoBot discovery for advanced GPP/LLM tuning (analogue dials, parameter adjustments, cognitive core swapping).
+    *   *Titania's Systems (FEI):* Active pre-takeover, fighting PBB digitally. Suppressed/offline post-takeover until reclamation.
+    *   *Room Codes/Chevrons:* System remains functional for navigation/Suc-U-Bus targeting.
+
+**B. Leovinus's Secret Earth Laboratory**
+
+*   **Location:** Deep underground on Earth, accessed via a hidden entrance within a dilapidated, unassuming fishing shack located by a lake in the forest behind the Player's original (rebuilt?) house (per user prompt). The mundane exterior deliberately conceals the high-tech interior.
+*   **Exterior (Fishing Shack):** Appears abandoned. Old fishing gear, rotting wood. The entrance puzzle might involve manipulating specific items (lures, tackle box) or finding a hidden keypad/scanner disguised as part of the shack.
+*   **Interior (Laboratory):** Accessed via hidden elevator/staircase. Stark contrast: clean, minimalist, advanced design. Features:
+    *   *LeoBot Core Hardware:* Central server bank housing LeoBot's primary consciousness.
+    *   *Holographic Projectors:* Allow LeoBot's initial manifestation.
+    *   *Advanced Computing Terminals:* For accessing Leovinus's data, running simulations, designing upgrades.
+    *   *Consciousness Upload Rig:* The (presumably refined) technology Leovinus used to create LeoBot. Schematics might be present.
+    *   *Robotic Assembly Unit:* Capable of constructing LeoBot's mobile chassis using components found in the lab.
+    *   *Prototypes & Notes:* Scattered evidence of Leovinus's final research (AI, immortality, perhaps failsafes for the Titanic?).
+    *   *Personal Logs:* Leovinus's final thoughts, motivations for creating LeoBot, potential insights into PBB's weaknesses or hidden ship systems.
+    *   *Power Source:* Likely self-contained, advanced, and hidden.
+*   **Role in STII:** Key location for Act 3. Site of LeoBot's discovery and activation. Hub for planning the reclamation and upgrading equipment (escape pod, LeoBot's body). Source of crucial backstory and potential technical solutions.
+
+**C. Earth (Post-ST1)**
+
+*   **Player's Home Area:** Rural Oxfordshire setting. House likely rebuilt. Environment is quiet, natural, providing stark contrast to the Titanic's artificiality and chaos. The lake and forest provide the immediate setting for finding the lab.
+*   **Wider World Context:** Earth remains largely unaware of the galactic community or the true scale of the Titanic incident (beyond a bizarre spaceship crash). Technology level is contemporary (relative to ST1's release). Police investigated the initial crash but likely have no ongoing presence. Potential for a hidden Mindminer listening post or data hub (less emphasized in "Parrot's Gambit" plot). Serves as the starting point for the reclamation mission.
+
+**D. Blerontis**
+
+*   **Description:** Homeworld of the Gat and Star-Struct Inc. (`<extralore>`). Portrayed as highly organized, perhaps sterile, dominated by corporate architecture and complex bureaucracy. Blerontinian culture emphasizes protocol, status, possibly commerce (Blerontis Syndicate sponsorship - `<extralore>`). Known for specific etiquette (GatSpeak).
+*   **Role in STII:** Primarily the background for Crossa's corporate maneuvering and the Blerontin/Starlight threat. Player might interact remotely (comms with Starstruct HQ) or make a brief visit (less likely in "Parrot's Gambit") to deal with the Gat or investigate corporate records related to Crossa/Antar/Scraliontis. Its bureaucratic nature provides fodder for Adams-esque satire.
+
+**E. Vastan**
+
+*   **Description:** Homeworld of Emperor Hh'huuuwhi!fft (`<extralore>`). Culture is defined by extreme eccentricity and bizarre customs, likely involving elaborate rituals, specific social protocols, and perhaps unusual culinary or artistic standards (based on Emperor's gourmand status and Magazine tone). Architecture might be opulent, surreal, defying conventional logic.
+*   **Role in STII:** Intended passenger destination. Key location in Act 1 for encountering the Emperor and navigating Vastan customs (social/inventory puzzles). Serves as the operational area for Dr. Chuckletrousers' espionage mission, potentially hiding the Leovinus data he seeks within imperial archives or labs accessible during official functions. Provides opportunities for surreal humor and unique puzzle design based on `<extralore>` hints.
+
+**F. Yassacca**
+
+*   **Description:** Planet economically devastated by the original Titanic construction contract being moved to Blerontis (`<extralore>`, `<novel>` filtered). Likely a mix of decaying industrial areas, potentially ancient cultural sites, and pockets of advanced (perhaps salvaged or illicit) technology. Population harbors deep resentment towards Starstruct/Blerontis. May have unique tech-religious sects (Father Turbot's potential origin).
+*   **Role in STII:** Origin point for the initial Yassaccan plot (operatives seeking revenge/tech). Source of ParrotBot and Evil DoorBot technology/programming. Player might visit (less likely in "Parrot's Gambit") or interact remotely to find anti-Starstruct allies, uncover evidence of the original plot, or trace PBB's origins. Father Turbot's connection provides a potential link. Represents the long-term consequences of corporate irresponsibility.
+
+**IV. Key Concepts & Items (Integrated from `<extralore>`)**
+
+This world is populated by specific entities and concepts drawn heavily from `<extralore>`:
+
+*   **Corporations:** Star-Struct Inc. (original builders, now infiltrated/influenced by Crossa), Starlight Lines (original operators, likely reorganized or absorbed by Star-Struct), Mindminers (Galactica) Inc. (rival AI corp, mentioned in `<sequelnotes>`, less central in "Parrot's Gambit" plot but potentially lurking), Klein und Moebius-Godel (Anaxiomat creators), Blerontis Syndicate (sponsors), Tache Galactica, Cunningham & Blair, Von Doenitz Menswear (flavor/ads).
+*   **Technology:** As listed in Universe Rules (GPP, SpookiLLM, PET, Suc-U-Bus, etc.).
+*   **In-Flight Magazine Concepts:** Used extensively for world flavor, humor, and potential gameplay:
+    *   *Products:* Noist-W-Gon towels, Foot-Eeze, Nite-Like masks, head hygiene goo, Fragrant Other Areas gel, Write On! paper, Write-W-R pen, Brush-'n-Twizzle, Lobby Light, Captains' Mats, etc. (Appear as background details, flavor text, maybe minor inventory items).
+    *   *Services:* Spinosuction, Scruple Removal, Bot tailoring (Le Bottage), Bot repair (Barry's Bot Shop). (Mentioned in dialogue/logs).
+    *   *Culture:* GatSpeak, Vastan customs (Emperor's demands), Blerontinian bureaucracy, Nib (the violent sport mentioned by BarBot/others), potential passenger quirks based on magazine profiles (e.g., Lemuel Bmmmm holding court in the Bar).
+    *   *Characters:* Provides context/existence proof for Crossa, Chuckletrousers, Gat, Emperor, Father Turbot.
+*   **Creatures/Races:** Blerontinians, Vastans, Yassaccans, Galloids, Blarghish, Humans, potentially Floofians, Zarkons, Worbs (pets), etc.
+*   **Food/Drink:** Fish-paste sandwiches (Blerontin tradition), Chicken (Parrot/Succ-U-Bus obsession), Pistachios (Parrot obsession), Titanic Titillator (BarBot puzzle), Signurian Vodka, potentially Reversible Sausages or other bizarre items mentioned.
+
+**V. Conclusion**
+
+The world of *Starship Titanic II: Parrot's Gambit* is an expanded, dynamic version of the original game's universe. It retains the core Adams-esque blend of high technology, bureaucratic absurdity, flawed characters, and surreal humor, while introducing higher stakes and multiple layers of conflict. The Starship Titanic itself evolves from a state of strained luxury to chaotic horror under ParrotBombBot's control, providing distinct environments for gameplay. Leovinus's hidden Earth lab offers a crucial point of discovery and technological advancement. The planets Blerontis, Vastan, and Yassacca provide rich backdrops for corporate intrigue, bizarre cultural encounters, and espionage, drawing heavily on established lore and `<extralore>` details. This detailed world, governed by its unique rules and populated by eccentric AI (driven by SpookiLLM), provides a compelling and immersive stage for the player's adventure to reclaim the ship from multiple threats, chief among them the psychotic ParrotBombBot.</worldbible>
